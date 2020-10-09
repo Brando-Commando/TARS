@@ -1,5 +1,8 @@
 # TARS
-TARS ( name inspired from the AI/robot companion of Interstellar ), is a standard voice assistant built in Python. 
+TARS ( name inspired from the AI/robot companion of Interstellar ), is a standard voice assistant built in Python.
+
+  Several packages are needed to run this program and they can be found in the imports, however Selenium is not yet needed. 
+  You will also need to use your own Wolfram Alpha API key, as I took mine out for privacy and security. 
 
   So far, I have gotten the engine to work and the introduction. However, my first concern and goal is to get the calculations 
 with Wolfram Alpha up and running. I am unsure as to exactly what issue im dealing with. Most likely an issue dealing with 
