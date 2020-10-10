@@ -67,7 +67,7 @@ def process_text(input):
             assistant_speaks(speak)
             return
         
-        elif "calculate" in input():
+        elif "calculate" in input:
             # wolframalpha app_id - 
             app_id = ""
             client = wolframalpha.Client(app_id)
